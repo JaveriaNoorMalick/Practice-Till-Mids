@@ -1,0 +1,6 @@
+c:\users\javeria noor\documents\visual studio 2012\Projects\SUM WITHOUT OPERATOR\SUM WITHOUT OPERATOR\bin\Debug\SUM WITHOUT OPERATOR.exe.config
+c:\users\javeria noor\documents\visual studio 2012\Projects\SUM WITHOUT OPERATOR\SUM WITHOUT OPERATOR\bin\Debug\SUM WITHOUT OPERATOR.exe
+c:\users\javeria noor\documents\visual studio 2012\Projects\SUM WITHOUT OPERATOR\SUM WITHOUT OPERATOR\bin\Debug\SUM WITHOUT OPERATOR.pdb
+c:\users\javeria noor\documents\visual studio 2012\Projects\SUM WITHOUT OPERATOR\SUM WITHOUT OPERATOR\obj\Debug\SUM WITHOUT OPERATOR.csprojResolveAssemblyReference.cache
+c:\users\javeria noor\documents\visual studio 2012\Projects\SUM WITHOUT OPERATOR\SUM WITHOUT OPERATOR\obj\Debug\SUM WITHOUT OPERATOR.exe
+c:\users\javeria noor\documents\visual studio 2012\Projects\SUM WITHOUT OPERATOR\SUM WITHOUT OPERATOR\obj\Debug\SUM WITHOUT OPERATOR.pdb
