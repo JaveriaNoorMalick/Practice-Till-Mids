@@ -1,0 +1,2 @@
+c:\users\javeria noor\documents\visual studio 2012\Projects\penoldromExample\penoldromExample\obj\Debug\penoldromExample.csprojResolveAssemblyReference.cache
+C:\Users\Javeria NOOr\Documents\Visual Studio 2012\Projects\penoldromExample\penoldromExample\bin\Debug\penoldromExample.exe.config
