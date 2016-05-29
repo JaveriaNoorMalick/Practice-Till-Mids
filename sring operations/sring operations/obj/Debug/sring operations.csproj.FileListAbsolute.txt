@@ -1,0 +1,6 @@
+c:\users\javeria noor\documents\visual studio 2012\Projects\sring operations\sring operations\bin\Debug\sring operations.exe.config
+c:\users\javeria noor\documents\visual studio 2012\Projects\sring operations\sring operations\obj\Debug\sring operations.csprojResolveAssemblyReference.cache
+c:\users\javeria noor\documents\visual studio 2012\Projects\sring operations\sring operations\bin\Debug\sring operations.exe
+c:\users\javeria noor\documents\visual studio 2012\Projects\sring operations\sring operations\bin\Debug\sring operations.pdb
+c:\users\javeria noor\documents\visual studio 2012\Projects\sring operations\sring operations\obj\Debug\sring operations.exe
+c:\users\javeria noor\documents\visual studio 2012\Projects\sring operations\sring operations\obj\Debug\sring operations.pdb
