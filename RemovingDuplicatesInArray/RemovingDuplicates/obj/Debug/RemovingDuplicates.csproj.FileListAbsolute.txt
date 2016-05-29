@@ -1,0 +1,7 @@
+c:\users\javeria noor\documents\visual studio 2012\Projects\RemovingDuplicates\RemovingDuplicates\bin\Debug\RemovingDuplicates.exe.config
+C:\Users\Javeria NOOr\Documents\Visual Studio 2012\Projects\RemovingDuplicatesInArray\RemovingDuplicates\bin\Debug\RemovingDuplicates.exe.config
+C:\Users\Javeria NOOr\Documents\Visual Studio 2012\Projects\RemovingDuplicatesInArray\RemovingDuplicates\bin\Debug\RemovingDuplicates.exe
+C:\Users\Javeria NOOr\Documents\Visual Studio 2012\Projects\RemovingDuplicatesInArray\RemovingDuplicates\bin\Debug\RemovingDuplicates.pdb
+C:\Users\Javeria NOOr\Documents\Visual Studio 2012\Projects\RemovingDuplicatesInArray\RemovingDuplicates\obj\Debug\RemovingDuplicates.exe
+C:\Users\Javeria NOOr\Documents\Visual Studio 2012\Projects\RemovingDuplicatesInArray\RemovingDuplicates\obj\Debug\RemovingDuplicates.pdb
+C:\Users\Javeria NOOr\Documents\Visual Studio 2012\Projects\RemovingDuplicatesInArray\RemovingDuplicates\obj\Debug\RemovingDuplicates.csprojResolveAssemblyReference.cache
