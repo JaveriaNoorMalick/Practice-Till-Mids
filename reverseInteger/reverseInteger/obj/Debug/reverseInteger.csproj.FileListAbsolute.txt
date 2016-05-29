@@ -1,0 +1,1 @@
+c:\users\javeria noor\documents\visual studio 2012\Projects\reverseInteger\reverseInteger\bin\Debug\reverseInteger.exe.config
