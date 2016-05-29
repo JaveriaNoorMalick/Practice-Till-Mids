@@ -1,0 +1,6 @@
+c:\users\javeria noor\documents\visual studio 2012\Projects\FindingAnagrams\FindingAnagrams\bin\Debug\FindingAnagrams.exe.config
+c:\users\javeria noor\documents\visual studio 2012\Projects\FindingAnagrams\FindingAnagrams\bin\Debug\FindingAnagrams.exe
+c:\users\javeria noor\documents\visual studio 2012\Projects\FindingAnagrams\FindingAnagrams\bin\Debug\FindingAnagrams.pdb
+c:\users\javeria noor\documents\visual studio 2012\Projects\FindingAnagrams\FindingAnagrams\obj\Debug\FindingAnagrams.csprojResolveAssemblyReference.cache
+c:\users\javeria noor\documents\visual studio 2012\Projects\FindingAnagrams\FindingAnagrams\obj\Debug\FindingAnagrams.exe
+c:\users\javeria noor\documents\visual studio 2012\Projects\FindingAnagrams\FindingAnagrams\obj\Debug\FindingAnagrams.pdb
